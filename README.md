@@ -50,7 +50,3 @@ Paralelamente, construo minha carreira em Tecnologia, com foco em desenvolviment
 🌎 Inglês Avançado – CCAA (188h)  
 
 ---
-
-## 🎯 Foco Atual
-
-Desenvolvimento de sistemas, evolução técnica contínua e construção de projetos práticos.
